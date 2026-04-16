@@ -1,16 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>project</title>
-    <style>
-        body {
-margins: 0;
-
+<title>LEMONADE</title>
+<style>
+h2 {font-size: 3.7vw;}
+h3 {font-size: 2.8vw;}
+h4 {font-size: 2.3vw;}
+p {font-size: 2vw;}
+body {
+margins: 5px;
+text-align: center;
+font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-    <style>
+</style>
 </head>
 <body>
-    <h1>Hello World!</h1>
-    <p>This is my first HTML file.</p>
+<h2>Lemonade Stand</h2>
+<h3>Menu: </h3>
+<h4>Drinks</h4>
+<p>
+Homemade Lemonade - 2.00$<br>
+Store Lemonade - 1.50$<br>
+Pink Lemonade - 2.00$<br>
+Water - 1.00$<br>
+Sparkling Ice - 3.00$<br>
+</p>
+<h4>Snacks</h4>
+<p>
+Popsicle - 2.00$<br>
+Chips - 1.500$<br>
+Cookie - 1.50$<br>
+Brownie - 1.50$<br>
+</p>
 </body>
 </html>
